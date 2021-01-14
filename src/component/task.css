@@ -1,0 +1,27 @@
+.task {
+  padding: 18px;
+  margin: 16px;
+  text-align: left;
+
+  width: 90%;
+  border: 2px solid #4a3edc;
+  border-radius: 45px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.task__input {
+  padding: 18px;
+  margin: 16px;
+  text-align: center;
+
+  width: 90%;
+  border: 3px solid #ff0302;
+  border-radius: 45px;
+}
+
+ul {
+  list-style: none;
+}

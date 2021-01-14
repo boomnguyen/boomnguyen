@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+  border: 5px solid #7ffd30;
+  border-radius: 45px;
+  width: 60%;
+  margin: auto;
+}
+h1 {
+  color: #743374;
+  font-style: italic;
+}
+.todo-list {
+  padding: 0;
+}
